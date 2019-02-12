@@ -14,7 +14,6 @@ asecret = "BulKS8mipUEifCTEw96MzsoI429S7i49SDUK2AIi3hydc"
 
 count = int(sys.argv[1])
 out_file = sys.argv[2]
-print sys.argv
 
 class listener(StreamListener):
     i = 0
